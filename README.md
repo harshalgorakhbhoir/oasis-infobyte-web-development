@@ -1,2 +1,2 @@
-# oasis-infobyte-web-development
+# web-development
 oasis infobyte web development
